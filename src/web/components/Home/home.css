@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+  background-size: cover;
+}
+.components-home {
+    & li {
+      color: yellowgreen;
+    }
+  }
+  

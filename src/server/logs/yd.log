@@ -1,0 +1,54 @@
+[2020-11-14T11:26:14.443] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:26:16.338] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:26:16.848] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:26:17.001] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:26:25.905] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:27:57.165] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:27:57.878] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:27:58.225] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}
+[2020-11-14T11:27:58.584] [ERROR] cheese - [Error: ENOENT: no such file or directory, open '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/cengxiaoxin/Desktop/jicheng/vip/src/server/views/index.html'
+}

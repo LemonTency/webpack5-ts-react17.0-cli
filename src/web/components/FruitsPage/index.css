@@ -1,0 +1,7 @@
+.components-fruit {
+    background-color: red;
+    &__book {
+      color: yellowgreen;
+    }
+  }
+  
